@@ -15,10 +15,6 @@ Project is created with:
 * Material-UI v4
 * React ^17
 
-## API
-* https://en.wikipedia.org/w/api.php
-* https://www.googleapis.com/youtube/v3
-
 ## Setup
 To run this project, open the file location in the terminal and run npm start.
 
